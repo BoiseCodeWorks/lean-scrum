@@ -24,6 +24,8 @@ Lean recommends that managers and executives embarked on lean transformations th
 [Scrum](https://www.scrumalliance.org/why-scrum)
 ------------------------------------------------
 
+![scrum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/2000px-Scrum_process.svg.png)
+
 # The Scrum Team
 
 The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master. Scrum Teams are self-organizing and cross-functional. Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team. Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team. The team model in Scrum is designed to optimize flexibility, creativity, and productivity.
